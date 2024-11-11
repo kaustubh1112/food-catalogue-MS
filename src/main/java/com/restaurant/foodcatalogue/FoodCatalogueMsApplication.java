@@ -1,4 +1,4 @@
-package com.rastaurant.food.catalogue.food_catalogue_MS;
+package com.restaurant.foodcatalogue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

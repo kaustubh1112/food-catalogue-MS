@@ -1,4 +1,4 @@
-package com.rastaurant.food.catalogue.food_catalogue_MS;
+package com.restaurant.foodcatalogue;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
